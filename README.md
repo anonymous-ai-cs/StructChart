@@ -23,7 +23,7 @@ The following datasets are used in our paper:
 - ChartQA \[[Dataset Page](https://github.com/vis-nlp/ChartQA)\]
 - PlotQA \[[Dataset Page](https://github.com/NiteshMethani/PlotQA)\]
 - Chart2Text \[[Dataset Page](https://github.com/JasonObeid/Chart2Text)\]
-- SimChart9K \[[Download](https://drive.google.com/file/d/1kqov-01SfVT4hgeXXNRQPS5NyyuSqbih/view?usp=sharing)\]
+- SimChart9K \[[Download](https://drive.google.com/file/d/1M_NA3sIJNwCUfqB1HH0p4lsnEm3NbvsI/view?usp=sharing)\]
 
 ## Train and Test
 * Train using multi-GPU
