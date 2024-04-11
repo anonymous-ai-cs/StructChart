@@ -1,0 +1,11 @@
+numpy
+llvmlite
+numba
+torch>=1.11.1
+tensorboardX
+transformers==4.29.1
+datasets
+timm
+easydict
+matplotlib
+Levenshtein
