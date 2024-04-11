@@ -46,8 +46,7 @@ Here, we present the performance of StrcutChart on ChartQA val set. All the expe
 
 | Train set                 | mPrecison (strict) | mPrecison (slight) | mPrecison (high) | ckpts |
 |---------------------------|--------------------|--------------------|------------------|-------|
-| ChartQA                   | 0.6770             | 0.7792             | 0.8274           |\[[Download]()\]|
-| ChartQA+PlotQA+Chart2Text | 0.7017             | 0.8227             | 0.8591           |\[[Download]()\]|
-| ChartQA 0.2+SimChart9K    | 0.6465             | 0.7787             | 0.8206           |\[[Download]()\]|
-| ChartQA 0.5+SimChart9K    | 0.6902             | 0.8015             | 0.8380           |\[[Download]()\]|
-| ChartQA+SimChart9K        | 0.7116             | 0.8182             | 0.8527           |\[[Download]()\]|
+| ChartQA                   | 0.6770             | 0.7792             | 0.8274           |\[[Download](https://drive.google.com/file/d/1GQYHXl1alhsN2X8mepX-vYAX7ff8kQ-F/view?usp=sharing)\]|
+| ChartQA+PlotQA+Chart2Text | 0.7017             | 0.8227             | 0.8591           |\[[Download](https://drive.google.com/file/d/1V2Fm7_Mh8m9uaJUDWpH097Qriwob8h6m/view?usp=sharing)\]|
+| ChartQA+SimChart9K        | 0.7116             | 0.8182             | 0.8527           |\[[Download](https://drive.google.com/file/d/1-deoaNvGlzAfq8kQLAzRsL-RdDlGOds1/view?usp=sharing)\]|
+| ChartQA+PlotQA+Chart2Text+SimChart9K | 0.7187             | 0.8311             | 0.8568          |\[[Download](https://drive.google.com/file/d/1NCz7KdoEPOe8a3QVvFZfK6H10KeWCyeA/view?usp=sharing)\]|
