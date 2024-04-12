@@ -23,7 +23,7 @@ The following datasets are used in our paper:
 - ChartQA \[[Dataset Page](https://github.com/vis-nlp/ChartQA)\]
 - PlotQA \[[Dataset Page](https://github.com/NiteshMethani/PlotQA)\]
 - Chart2Text \[[Dataset Page](https://github.com/JasonObeid/Chart2Text)\]
-- SimChart9K \[[Download](https://drive.google.com/file/d/1M_NA3sIJNwCUfqB1HH0p4lsnEm3NbvsI/view?usp=sharing)\]
+- SimChart9K \[[Download](https://drive.google.com/file/d/1_KkYdedW982BhhKb-ohXHADnlmFEQZUJ/view?usp=sharing)\]
 
 ## Train and Test
 * Train using multi-GPU
@@ -46,7 +46,7 @@ Here, we present the performance of StrcutChart on ChartQA val set. All the expe
 
 | Train set                 | mPrecison (strict) | mPrecison (slight) | mPrecison (high) | ckpts |
 |---------------------------|--------------------|--------------------|------------------|-------|
-| ChartQA                   | 0.6770             | 0.7792             | 0.8274           |\[[Download](https://drive.google.com/file/d/1GQYHXl1alhsN2X8mepX-vYAX7ff8kQ-F/view?usp=sharing)\]|
-| ChartQA+PlotQA+Chart2Text | 0.7017             | 0.8227             | 0.8591           |\[[Download](https://drive.google.com/file/d/1V2Fm7_Mh8m9uaJUDWpH097Qriwob8h6m/view?usp=sharing)\]|
-| ChartQA+SimChart9K        | 0.7116             | 0.8182             | 0.8527           |\[[Download](https://drive.google.com/file/d/1-deoaNvGlzAfq8kQLAzRsL-RdDlGOds1/view?usp=sharing)\]|
-| ChartQA+PlotQA+Chart2Text+SimChart9K | 0.7187             | 0.8311             | 0.8568          |\[[Download](https://drive.google.com/file/d/1NCz7KdoEPOe8a3QVvFZfK6H10KeWCyeA/view?usp=sharing)\]|
+| ChartQA                   | 0.6770             | 0.7792             | 0.8274           |\[[Download](https://drive.google.com/file/d/1_l3xeT09WjRMvP298OGhBNbiO503XAsj/view?usp=sharing)\]|
+| ChartQA+PlotQA+Chart2Text | 0.7017             | 0.8227             | 0.8591           |\[[Download](https://drive.google.com/file/d/1FdUUKo4tZijIuTIwhkCE1cASq025ThRu/view?usp=sharing)\]|
+| ChartQA+SimChart9K        | 0.7116             | 0.8182             | 0.8527           |\[[Download](https://drive.google.com/file/d/1UtAMKwuM0woJQAE9ovozL_7Pvv3sTiBb/view?usp=sharing)\]|
+| ChartQA+PlotQA+Chart2Text+SimChart9K | 0.7187             | 0.8311             | 0.8568          |\[[Download](https://drive.google.com/file/d/1-XFe4QdClETSHF2bPlWkBCVXkfE96A0C/view?usp=sharing)\]|
